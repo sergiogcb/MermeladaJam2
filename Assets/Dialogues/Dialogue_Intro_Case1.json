@@ -1,0 +1,102 @@
+[
+    {
+        "index": 1,
+        "message": "B-buenos días. ¿Es usted la persona que realiza tatuajes mágicos?",
+        "author": "Cliente"
+    },
+    {
+        "index": 2,
+        "message": "Muy buenos días. No te preocupes chico, no hace falta que seas tan formal. Siéntete libre de tutearme.",
+        "author": "Tatuador"
+    },
+    {
+        "index": 3,
+        "message": "Y sí, soy yo. Pero nada de “tatuajes mágicos”. Estamos hablando de un producto mucho más valioso.",
+        "author": "Tatuador"
+    },
+    {
+        "index": 4,
+        "message": "¿Qué diferencia hay entonces con uno normal? Espero que no te moleste, pero nunca me he hecho ningún tatuaje y estoy nervioso…",
+        "author": "Cliente"
+    },
+    {
+        "index": 5,
+        "message": "Son Grabados para el Alma, y están conectados a la parte más profunda de tu corazón.",
+        "author": "Tatuador"
+    },
+    {
+        "index": 6,
+        "message": "Guau… suena increíble. ¿Podrías hacerme uno?",
+        "author": "Cliente"
+    },
+    {
+        "index": 7,
+        "message": "Sólo por asegurarme, pero… ¿te han hablado acerca del precio que tienen?",
+        "author": "Tatuador"
+    },
+    {
+        "index": 8,
+        "message": "Oh, no te preocupes. Si es por dinero, podré pagarlo sin problemas.",
+        "author": "Cliente"
+    },
+    {
+        "index": 9,
+        "message": "No es una cuestión de dinero, chico.",
+        "author": "Tatuador"
+    },
+    {
+        "index": 10,
+        "message": "Para que los grabados permanezcan en tu cuerpo, tiene que tratarse de una ilustración que esté en sincronía con tus sentimientos.",
+        "author": "Tatuador"
+    },
+    {
+        "index": 11,
+        "message": "Y para ello, debo asegurarme de conocerte.",
+        "author": "Tatuador"
+    },
+    {
+        "index": 12,
+        "message": "Porque si no… perderás aquello que realmente te importa.",
+        "author": "Tatuador"
+    },
+    {
+        "index": 13,
+        "message": "¿Cómo?",
+        "author": "Cliente"
+    },
+    {
+        "index": 14,
+        "message": "Si no consigo acertar y tatuarte aquello que de verdad anhelas, perderás todos tus recuerdos sobre esa emoción.",
+        "author": "Tatuador"
+    },
+    {
+        "index": 15,
+        "message": "Si de verdad estás dispuesto a correr el riesgo, será un placer para mí tener la oportunidad de conocerte.",
+        "author": "Tatuador"
+    },
+    {
+        "index": 16,
+        "message": "¿Cómo esperas que acepte después de escuchar eso? ¿Perder aquello que de verdad deseo?",
+        "author": "Cliente"
+    },
+    {
+        "index": 17,
+        "message": "La decisión es solo tuya. Si quisieses un simple tatuaje no habrías venido hasta aquí. Si quieres irte, no te preocupes, lo entiendo. No es una decisión fácil.",
+        "author": "Tatuador"
+    },
+    {
+        "index": 18,
+        "message": "No, realmente tienes razón. Ahora no puedo echarme atrás. Necesito esto. ¿Qué tengo que hacer?",
+        "author": "Cliente"
+    },
+    {
+        "index": 19,
+        "message": "Simplemente necesito conocerte, déjame descubrir qué forma tiene tu alma.",
+        "author": "Tatuador"
+    },
+    {
+        "index": 20,
+        "message": "Has comentado que nunca te has hecho ningún tatuaje, entonces, ¿qué te ha impulsado a venir hasta aquí?",
+        "author": "Tatuador"
+    }
+]
