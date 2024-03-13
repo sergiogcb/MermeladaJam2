@@ -1,0 +1,44 @@
+[
+    {
+        "index": 0,
+        "message": "Nunca es fácil poder establecer vínculos con otras personas.",
+        "author": "Cliente",
+        "choiceIsNext": "no"
+    },
+    {
+        "index": 1,
+        "message": "Sé que la comparación puede sonar estúpida, pero… Es un poco como pasa hoy en día con las redes sociales.",
+        "author": "Cliente",
+        "choiceIsNext": "no"
+    },
+    {
+        "index": 2,
+        "message": "Hay muchas personas que estamos acostumbradas ya a ver sin parar diferentes vídeos cortos.",
+        "author": "Cliente",
+        "choiceIsNext": "no"
+    },
+    {
+        "index": 3,
+        "message": "Es como si esa necesidad por la inmediatez o brevedad también se aplicase a la hora de conocer personas.",
+        "author": "Cliente",
+        "choiceIsNext": "no"
+    },
+    {
+        "index": 4,
+        "message": "Si tras un rato conversando no ven ningún valor en ti… pierden rápidamente el interés.",
+        "author": "Cliente",
+        "choiceIsNext": "no"
+    },
+    {
+        "index": 5,
+        "message": "No se crea ninguna conexión entre nosotros.",
+        "author": "Cliente",
+        "choiceIsNext": "no"
+    },
+    {
+        "index": 6,
+        "message": "Y me aterra pensar en que apenas podré llegar a crear vínculos por cómo soy.",
+        "author": "Cliente",
+        "choiceIsNext": "no"
+    }
+]

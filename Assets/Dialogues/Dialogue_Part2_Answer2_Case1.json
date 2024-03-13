@@ -1,0 +1,62 @@
+[
+    {
+        "index": 0,
+        "message": "La verdad es que ahora que lo pienso, me da un poco de vergüenza haberme comparado con un tesoro.",
+        "author": "Cliente",
+        "choiceIsNext": "no"
+    },
+    {
+        "index": 1,
+        "message": "No era mi intención sonar prepotente, lo siento mucho.",
+        "author": "Cliente",
+        "choiceIsNext": "no"
+    },
+    {
+        "index": 2,
+        "message": "Es sólo que de verdad pienso que puedo llegar a ofrecer mucho a aquellas personas que se interesen en conocerme.",
+        "author": "Cliente",
+        "choiceIsNext": "no"
+    },
+    {
+        "index": 3,
+        "message": "Me considero una persona leal, siempre dispuesta a proteger a mis amigos.",
+        "author": "Cliente",
+        "choiceIsNext": "no"
+    },
+    {
+        "index": 4,
+        "message": "No sé si será uno de los motivos por los que no sepan apreciarme, pero me encantan los bichos.",
+        "author": "Cliente",
+        "choiceIsNext": "no"
+    },
+    {
+        "index": 5,
+        "message": "Algunos son capaces de evolucionar y cambiar, es fascinante. Y precioso.",
+        "author": "Clientes",
+        "choiceIsNext": "no"
+    },
+    {
+        "index": 6,
+        "message": "También sé escuchar, y ofrecer mi mano para ayudar a quien necesite mi ayuda.",
+        "author": "Cliente",
+        "choiceIsNext": "no"
+    },
+    {
+        "index": 7,
+        "message": "Simplemente quiero estar ahí para los demás. Y que ellos estén cuando yo lo necesite.",
+        "author": "Cliente",
+        "choiceIsNext": "no"
+    },
+    {
+        "index": 8,
+        "message": "¿Es raro que me obsesione tanto querer crear amistades?",
+        "author": "Cliente",
+        "choiceIsNext": "no"
+    },
+    {
+        "index": 9,
+        "message": "¿Por qué no me basta con las que tengo ya, aunque sean pocas?",
+        "author": "Cliente",
+        "choiceIsNext": "no"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "index": 0,
+        "message": "Ha llegado un punto en el que no lo sé y dudo sobre ello pero, a la vez, se trata de una obsesión.",
+        "author": "Cliente",
+        "choiceIsNext": "no"
+    },
+    {
+        "index": 1,
+        "message": "Por una parte, considero que es algo muy importante para mí.",
+        "author": "Cliente",
+        "choiceIsNext": "no"
+    },
+    {
+        "index": 2,
+        "message": "A veces, la vida puede llegar a resultar muy solitaria. Y no puedo evitar pensar que es en parte por cómo soy.",
+        "author": "Cliente",
+        "choiceIsNext": "no"
+    },
+    {
+        "index": 3,
+        "message": "Tiendo a nunca abrirme por completo con otras personas, a no expresar lo que pienso.",
+        "author": "Cliente",
+        "choiceIsNext": "no"
+    },
+    {
+        "index": 4,
+        "message": "Y al final, suelo ser muy callado.",
+        "author": "Cliente",
+        "choiceIsNext": "no"
+    },
+    {
+        "index": 5,
+        "message": "Todo llega siempre a un punto en el que, cuando hablo con alguien, ninguno de los dos tenemos nada que compartir.",
+        "author": "Cliente",
+        "choiceIsNext": "no"
+    },
+    {
+        "index": 6,
+        "message": "Siento que necesito ser más lanzado, no tener miedo a decir lo que siento y quiero.",
+        "author": "Cliente",
+        "choiceIsNext": "no"
+    },
+    {
+        "index": 7,
+        "message": "Y, sobre todo, aunque piense que es culpa de ser como soy… No quiero odiar esa parte de mí.",
+        "author": "Cliente",
+        "choiceIsNext": "no"
+    },
+    {
+        "index": 8,
+        "message": "Me gustaría aceptarlo, abrazarlo.",
+        "author": "Cliente",
+        "choiceIsNext": "no"
+    }
+]

@@ -2,42 +2,50 @@
     {
         "index": 1,
         "message": "B-buenos días. ¿Es usted la persona que realiza tatuajes mágicos?",
-        "author": "Cliente"
+        "author": "Cliente",
+        "choiceIsNext": "no"
     },
     {
         "index": 2,
         "message": "Muy buenos días. No te preocupes chico, no hace falta que seas tan formal. Siéntete libre de tutearme.",
-        "author": "Tatuador"
+        "author": "Tatuador",
+        "choiceIsNext": "no"
     },
     {
         "index": 3,
         "message": "Y sí, soy yo. Pero nada de “tatuajes mágicos”. Estamos hablando de un producto mucho más valioso.",
-        "author": "Tatuador"
+        "author": "Tatuador",
+        "choiceIsNext": "no"
     },
     {
         "index": 4,
         "message": "¿Qué diferencia hay entonces con uno normal? Espero que no te moleste, pero nunca me he hecho ningún tatuaje y estoy nervioso…",
-        "author": "Cliente"
+        "author": "Cliente",
+        "choiceIsNext": "no"
     },
     {
         "index": 5,
         "message": "Son Grabados para el Alma, y están conectados a la parte más profunda de tu corazón.",
-        "author": "Tatuador"
+        "author": "Tatuador",
+        "choiceIsNext": "no"
     },
     {
         "index": 6,
         "message": "Guau… suena increíble. ¿Podrías hacerme uno?",
-        "author": "Cliente"
+        "author": "Cliente",
+        "choiceIsNext": "no"
     },
     {
         "index": 7,
         "message": "Sólo por asegurarme, pero… ¿te han hablado acerca del precio que tienen?",
-        "author": "Tatuador"
+        "author": "Tatuador",
+        "choiceIsNext": "no"
     },
     {
         "index": 8,
         "message": "Oh, no te preocupes. Si es por dinero, podré pagarlo sin problemas.",
-        "author": "Cliente"
+        "author": "Cliente",
+        "choiceIsNext": "no"
     },
     {
         "index": 9,

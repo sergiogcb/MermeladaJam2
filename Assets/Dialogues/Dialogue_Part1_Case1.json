@@ -1,0 +1,32 @@
+[
+    {
+        "index": 1,
+        "message": "La verdad es que no lo sé…",
+        "author": "Cliente",
+        "choiceIsNext": "no"
+    },
+    {
+        "index": 2,
+        "message": "Supongo que no quería simplemente marcar mi piel con algo simple. Quiero algo que represente cómo soy.",
+        "author": "Cliente",
+        "choiceIsNext": "no"
+    },
+    {
+        "index": 3,
+        "message": "Y también en quién llegaré a convertirme.",
+        "author": "Cliente",
+        "choiceIsNext": "no"
+    },
+    {
+        "index": 4,
+        "message": "Siempre me he sentido una persona muy tímida y reservada. Nunca siento que tengo un libre albedrío a la hora de poder expresarme.",
+        "author": "Cliente",
+        "choiceIsNext": "no"
+    },
+    {
+        "index": 5,
+        "message": "Es como si fuese un tesoro escondido dentro de un cofre en lo más profundo del océano. Sólo puedo ser descubierto por aquellas personas que se atreven a bucear en él.",
+        "author": "Cliente",
+        "choiceIsNext": "no"
+    }
+]

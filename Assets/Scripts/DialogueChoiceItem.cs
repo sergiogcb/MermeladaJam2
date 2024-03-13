@@ -3,8 +3,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+
 [Serializable]
-public class DialogueItem
+public class DialogueChoiceItem
 {
     [SerializeField]
     public int index;
@@ -14,6 +15,5 @@ public class DialogueItem
     public string author;
     [SerializeField]
     public string choiceIsNext;
-
-
+    
 }

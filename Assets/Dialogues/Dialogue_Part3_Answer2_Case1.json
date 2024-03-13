@@ -1,0 +1,35 @@
+[
+    {
+        "index": 0,
+        "message": "Creo que, una vez que lo haga, seré capaz de cambiar.",
+        "author": "Cliente",
+        "choiceIsNext": "no"
+    },
+    {
+        "index": 1,
+        "message": "Y con este cambio, seré capaz de abrirme más cuando esté con otras personas. Al final, podrán conocerme mejor.",
+        "author": "Cliente",
+        "choiceIsNext": "no"
+    },
+    {
+        "index": 2,
+        "message": "Espero no estar sonando como una persona desesperada que lo único que necesita es atención por parte de otras personas.",
+        "author": "Cliente",
+        "choiceIsNext": "no"
+    },
+    {
+        "index": 3,
+        "message": "Simplemente siento que quiero una oportunidad de poder relacionarme con otras personas.",
+        "author": "Cliente",
+        "choiceIsNext": "no"
+    },
+    {
+        "index": 4,
+        "message": "Y gracias a esto, seré capaz de apreciarme más.",
+        "author": "Cliente",
+        "choiceIsNext": "no"
+    }
+]
+
+
+
